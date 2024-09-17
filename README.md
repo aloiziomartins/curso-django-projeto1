@@ -18,4 +18,4 @@ Aprendendo Django Framwork, Django Rest Framwork com python. Incluindo HTML, CSS
     <cite> git clone link <cite> 
     <cite> git commit <cite>
 
-- Aguarde próximas atualizações
+- Aguarde próximas atualizações.
