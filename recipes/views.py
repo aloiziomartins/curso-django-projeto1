@@ -14,9 +14,3 @@ def home(request):
 
 #def home(request):
 #    return HttpResponse("Página inicial recipes")
-
-def contato(request):
-    return HttpResponse("Contato recipes ")
-
-def sobre(request):
-    return HttpResponse("Sempre acredite em você! recipes")
