@@ -13,3 +13,5 @@ media
 #Backup e arquivos
 *.Bak
 *.bkp
+
+#script
